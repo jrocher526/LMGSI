@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Cuadros de Texto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .cuadro {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Formulario de texto</h1>
+    <div class="cuadro">
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" id="nombre" name="nombre" placeholder="Ingresa tu nombre">
+    </div>
+    <div class="cuadro">
+        <label for="email">Correo Electrónico:</label><br>
+        <input type="email" id="email" name="email" placeholder="Ingresa tu correo electrónico">
+    </div>
+    <div class="cuadro">
+        <label for="mensaje">Mensaje:</label><br>
+        <textarea id="mensaje" name="mensaje" rows="4" placeholder="Escribe tu mensaje aquí"></textarea>
+    </div>
+    <button type="submit">Enviar</button>
+</body>
+</html>
