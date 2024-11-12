@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mejora figuras -->
+<datos> 
+
+   <nombre>
+      <nombre>juan_gabriel</nombre>
+      <dni>12689451h</dni>
+   </nombre>
+   <nombre>
+      <nombre>maria_duerto</nombre>
+      <dni>1569784t3</dni>
+   </nombre>
+   <nombre>
+      <nombre>manuel_ramirez</nombre>
+      <dni>6215487r</dni>
+   </nombre>
+
+</datos>

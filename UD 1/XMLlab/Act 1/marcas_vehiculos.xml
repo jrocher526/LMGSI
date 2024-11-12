@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mejora de ciudades-->
+<marcas_vehiculos>
+<marca>
+	<nombre>subaru</nombre>
+	<pais>japon</pais>
+	<modelo>forester</modelo>
+</marca>
+<marca>
+	<nombre>honda</nombre>
+	<pais>japon</pais>
+	<modelo>cr_v</modelo>
+</marca>
+<marca>
+	<nombre>porsche</nombre>
+	<pais>alemania</pais>
+	<modelo>taycan</modelo>
+</marca>
+</marcas_vehiculos>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario con Casillas de Selección</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Formulario de Selección de Intereses</h1>
+
+<form action="#" method="post">
+    <div class="form-group">
+        <label>Selecciona tus intereses:</label><br>
+        <input type="checkbox" id="deportes" name="intereses" value="deportes">
+        <label for="deportes">Deportes</label><br>
+        <input type="checkbox" id="musica" name="intereses" value="musica">
+        <label for="musica">Música</label><br>
+        <input type="checkbox" id="lectura" name="intereses" value="lectura">
+        <label for="lectura">Lectura</label><br>
+        <input type="checkbox" id="viajes" name="intereses" value="viajes">
+        <label for="viajes">Viajes</label><br>
+        <input type="checkbox" id="cocina" name="intereses" value="cocina">
+        <label for="cocina">Cocina</label>
+    </div>
+
+    <div class="form-group">
+        <button type="submit">Enviar</button>
+        <button type="reset">Restablecer</button>
+    </div>
+</form>
+
+</body>
+</html>

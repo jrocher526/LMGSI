@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- mejora equipo de futbol -->
+
+<equipos>
+    <equipo>
+        <nombre>red bull</nombre>
+        <pais>inglaterra</pais>
+        <fundador>Dietrich Mateschitz</fundador>
+        <pilotos>
+            <piloto>
+                <nombre>Sergio Perez</nombre>
+                <nacionalidad>Mexicano</nacionalidad>
+            </piloto>
+            <piloto>
+                <nombre>Max Verstappen</nombre>
+                <nacionalidad>neerlandés</nacionalidad>
+            </piloto>
+        </pilotos>
+    </equipo>
+    <equipo>
+        <nombre>mercedes</nombre>
+        <Pais>Alemania</Pais>
+        <fundador>Norbert Haug</fundador>
+        <pilotos>
+            <piloto>
+                <nombre>Lewis Hamilton</nombre>
+                <nacionalidad>británico</nacionalidad>
+            </piloto>
+            <piloto>
+                <nombre>George Russell</nombre>
+                <nacionalidad>británico</nacionalidad>
+            </piloto>
+        </pilotos>
+    </equipo>
+    <equipo>
+        <nombre>ferrari</nombre>
+        <pais>italia</pais>
+        <fundador>Enzo Ferrari</fundador>
+        <pilotos>
+            <piloto>
+                <nombre>Carlos Sainz</nombre>
+                <nacionalidad>española</nacionalidad>
+            </piloto>
+            <piloto>
+                <nombre>Charles Leclerc</nombre>
+                <nacionalidad>Monegasco</nacionalidad>
+            </piloto>
+        </pilotos>
+    </equipo>
+    <equipo>
+        <nombre>mclaren</nombre>
+        <pais>Inglaterra</pais>
+        <fundador>Bruce McLaren</fundador>
+        <pilotos>
+            <piloto>
+                <nombre>Lando Norris</nombre>
+                <nacionalidad>Britanico</nacionalidad>
+            </piloto>
+            <piloto>
+                <nombre>Oscar Piastri</nombre>
+                <nacionalidad>Australiano</nacionalidad>
+            </piloto>
+        </pilotos>
+    </equipo>
+</equipos>
