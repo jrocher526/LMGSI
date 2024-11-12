@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <Biblioteca>
+        <Pelicula>
+            <Titulo>El Padrino</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>Francis</Nombre>
+                    <PrimerApellido>Coppola</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>Paramount Pictures</Estudio>
+            <ISBN>978-0-06-148410-0</ISBN>
+            <FechaEstreno>1972-03-24</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>La Guerra de las Galaxias</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>George</Nombre>
+                    <PrimerApellido>Lucas</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>Lucasfilm</Estudio>
+            <ISBN>978-1-01-234567-8</ISBN>
+            <FechaEstreno>1977-05-25</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>Inception</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>Christopher</Nombre>
+                    <PrimerApellido>Nolan</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>Warner Bros.</Estudio>
+            <ISBN>978-0-123-45678-9</ISBN>
+            <FechaEstreno>2010-07-16</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>El Caballero Oscuro</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>Christopher</Nombre>
+                    <PrimerApellido>Nolan</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>Warner Bros.</Estudio>
+            <ISBN>978-1-234-56789-0</ISBN>
+            <FechaEstreno>2008-07-18</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>El Exorcista</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>William</Nombre>
+                    <PrimerApellido>Friedkin</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>Warner Bros.</Estudio>
+            <ISBN>978-1-987-65432-1</ISBN>
+            <FechaEstreno>1973-12-26</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>La Lista de Schindler</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>Steven</Nombre>
+                    <PrimerApellido>Spielberg</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>Universal Pictures</Estudio>
+            <ISBN>978-0-345-67890-1</ISBN>
+            <FechaEstreno>1993-12-15</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>Forrest Gump</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>Robert</Nombre>
+                    <PrimerApellido>Zemeckis</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>Paramount Pictures</Estudio>
+            <ISBN>978-0-567-89012-3</ISBN>
+            <FechaEstreno>1994-07-06</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>El Señor de los Anillos: La Comunidad del Anillo</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>Peter</Nombre>
+                    <PrimerApellido>Jackson</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>New Line Cinema</Estudio>
+            <ISBN>978-0-789-45612-4</ISBN>
+            <FechaEstreno>2001-12-19</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>Jurassic Park</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>Steven</Nombre>
+                    <PrimerApellido>Spielberg</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>Universal Pictures</Estudio>
+            <ISBN>978-1-234-56789-9</ISBN>
+            <FechaEstreno>1993-06-11</FechaEstreno>
+        </Pelicula>
+        <Pelicula>
+            <Titulo>Avatar</Titulo>
+            <Directores>
+                <Director>
+                    <Nombre>James</Nombre>
+                    <PrimerApellido>Cameron</PrimerApellido>                    
+                </Director>
+            </Directores>
+            <Estudio>20th Century Fox</Estudio>
+            <ISBN>978-0-432-87654-3</ISBN>
+            <FechaEstreno>2009-12-18</FechaEstreno>
+        </Pelicula>
+    </Biblioteca>

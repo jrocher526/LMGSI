@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biblioteca>
+    <Libro>
+        <Titulo>Don Quijote de la Mancha</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>Miguel</Nombre>
+                <PrimerApellido>Cervantes</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>Francisco de Robles</Editorial>
+        <ISBN>978-84-123-4567-0</ISBN>
+        <FechaPublicacion>1605-01-16</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>Orgullo y Prejuicio</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>Jane</Nombre>
+                <PrimerApellido>Austen</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>T. Egerton</Editorial>
+        <ISBN>978-1-4028-9467-5</ISBN>
+        <FechaPublicacion>1813-01-28</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>Cien Años de Soledad</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>Gabriel</Nombre>
+                <PrimerApellido>García Márquez</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>Editorial Sudamericana</Editorial>
+        <ISBN>978-0-06-088328-7</ISBN>
+        <FechaPublicacion>1967-06-05</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>1984</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>George</Nombre>
+                <PrimerApellido>Orwell</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>Secker  Warburg</Editorial>
+        <ISBN>978-0-452-28423-4</ISBN>
+        <FechaPublicacion>1949-06-08</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>El Gran Gatsby</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>F. Scott</Nombre>
+                <PrimerApellido>Fitzgerald</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>Charles Scribner's Sons</Editorial>
+        <ISBN>978-0-7432-7356-5</ISBN>
+        <FechaPublicacion>1925-04-10</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>Harry Potter y la Piedra Filosofal</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>J.K.</Nombre>
+                <PrimerApellido>Rowling</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>Bloomsbury</Editorial>
+        <ISBN>978-0-7475-3269-9</ISBN>
+        <FechaPublicacion>1997-06-26</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>El Hobbit</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>J.R.R.</Nombre>
+                <PrimerApellido>Tolkien</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>George Allen  Unwin</Editorial>
+        <ISBN>978-0-618-00221-3</ISBN>
+        <FechaPublicacion>1937-09-21</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>Crimen y Castigo</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>Fiódor</Nombre>
+                <PrimerApellido>Dostoyevski</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>Ediciones Pushkin</Editorial>
+        <ISBN>978-0-14-044913-6</ISBN>
+        <FechaPublicacion>1866-01-01</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>La Odisea</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>Homero</Nombre>
+                <PrimerApellido> </PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>Ediciones Cátedra</Editorial>
+        <ISBN>978-84-376-0782-0</ISBN>
+        <FechaPublicacion>c. 800 a.C.</FechaPublicacion>
+    </Libro>
+    <Libro>
+        <Titulo>El Código Da Vinci</Titulo>
+        <Autores>
+            <Autor>
+                <Nombre>Dan</Nombre>
+                <PrimerApellido>Brown</PrimerApellido>                    
+            </Autor>
+        </Autores>
+        <Editorial>Doubleday</Editorial>
+        <ISBN>978-0-385-50420-8</ISBN>
+        <FechaPublicacion>2003-03-18</FechaPublicacion>
+    </Libro>
+</Biblioteca>
