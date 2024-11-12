@@ -1,0 +1,20 @@
+[
+    {
+      "titulo": "Inception",
+      "director": "Christopher Nolan",
+      "lanzamiento": 2010,
+      "genero": ["Acción", "Ciencia Ficción"]
+    },
+    {
+      "titulo": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "lanzamiento": 1994,
+      "genero": ["Drama"]
+    },
+    {
+      "titulo": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "lanzamiento": 1994,
+      "genero": ["Crimen", "Drama"]
+    }
+  ]

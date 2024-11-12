@@ -1,0 +1,15 @@
+{
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "publicacion": 1943,
+    "genero": "Fábula",
+    "valoraciones": [4.8, 4.9, 5.0],
+    "resena": {
+      "resumen": "La historia de un pequeño príncipe que viaja por el universo.",
+      "opiniones": [
+        {"usuario": "Lector123", "puntuacion": 5},
+        {"usuario": "Viajero789", "puntuacion": 4.5}
+      ]
+    },
+    "premios": null
+  }

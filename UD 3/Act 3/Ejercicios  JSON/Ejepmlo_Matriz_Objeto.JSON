@@ -1,0 +1,14 @@
+{
+    "persona": {
+      "nombre": "Juan",
+      "edad": 25,
+      "ciudad": "Madrid"
+    },
+    "frutas": [
+      "Manzanas",
+      "Plátanos",
+      "Uvas",
+      "Fresas"
+    ]
+  }
+  
