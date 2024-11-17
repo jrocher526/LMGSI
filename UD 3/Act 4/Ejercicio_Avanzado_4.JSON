@@ -1,0 +1,50 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "edad": 29,
+        "cargo": "Desarrollador Front-End",
+        "salario": 50000,
+        "proyectos": [
+          {
+            "id_proyecto": 101,
+            "nombre": "Plataforma Web",
+            "fecha_inicio": "2023-01-15",
+            "tareas": [
+              {
+                "id_tarea": 201,
+                "descripcion": "Desarrollo de la interfaz de usuario",
+                "estado": "En progreso"
+              },
+              {
+                "id_tarea": 202,
+                "descripcion": "Implementación de la autenticación",
+                "estado": "Pendiente"
+              }
+            ]
+          },
+          {
+            "id_proyecto": 102,
+            "nombre": "Aplicación Móvil",
+            "fecha_inicio": "2023-04-01",
+            "tareas": [
+              {
+                "id_tarea": 203,
+                "descripcion": "Diseño de la experiencia de usuario",
+                "estado": "Completada"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "María Rodríguez",
+        "edad": 32,
+        "cargo": "Analista de Datos",
+        "salario": 6000
+      }
+    
+    ]
+}

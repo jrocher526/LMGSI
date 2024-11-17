@@ -1,0 +1,87 @@
+{
+    "estudiantes": [
+      {
+        "id": 1,
+        "nombre": "Ana Pérez",
+        "edad": 20,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Matemáticas",
+            "calificación": 9.5
+          },
+          {
+            "id_asignatura": 102,
+            "nombre": "Literatura",
+            "calificación": 8.7
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Carlos Gómez",
+        "edad": 22,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Matemáticas",
+            "calificación": 7.8
+          },
+          {
+            "id_asignatura": 103,
+            "nombre": "Biología",
+            "calificación": 9.2
+          }
+        ]
+      }
+    ],
+    "profesores": [
+      {
+        "id": 1,
+        "nombre": "María López",
+        "edad": 40,
+        "asignaturas": [
+          {
+            "id_asignatura": 101,
+            "nombre": "Matemáticas",
+            "créditos": 4
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nombre": "Juan Martínez",
+        "edad": 35,
+        "asignaturas": [
+          {
+            "id_asignatura": 102,
+            "nombre": "Literatura",
+            "créditos": 3
+          },
+          {
+            "id_asignatura": 103,
+            "nombre": "Biología",
+            "créditos": 5
+          }
+        ]
+      }
+    ],
+    "asignaturas": [
+      {
+        "id": 101,
+        "nombre": "Matemáticas",
+        "créditos": 4
+      },
+      {
+        "id": 102,
+        "nombre": "Literatura",
+        "créditos": 3
+      },
+      {
+        "id": 103,
+        "nombre": "Biología",
+        "créditos": 5
+      }
+    ]
+  }
+  
