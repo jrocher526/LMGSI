@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca>
+  <libro>
+    <titulo></titulo>
+    <autor></autor>
+    <editorial></editorial>
+    <año></año>
+    <genero></genero>
+    <isbn></isbn>
+  </libro>
+</biblioteca>

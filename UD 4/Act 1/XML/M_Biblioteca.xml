@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coleccion SYSTEM "C:/Users/1DAW2425-07/Desktop/Instituto/Lenguaje de marca/UD 4/Act 1/DTD/M_Biblioteca.dtd">
+
+<coleccion>
+
+    <videojuego>
+        <titulo>The Last of Us Part II</titulo>
+        <desarrollador>Naughty Dog</desarrollador>
+        <genero>Acción, Aventura</genero>
+        <plataforma>PlayStation 4</plataforma>
+        <año>2020</año>
+        <calificacion>10</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>God of War</titulo>
+        <desarrollador>Sony Santa Monica</desarrollador>
+        <genero>Acción, Aventura</genero>
+        <plataforma>PlayStation 4</plataforma>
+        <año>2018</año>
+        <calificacion>9</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>Cyberpunk 2077</titulo>
+        <desarrollador>CD Projekt Red</desarrollador>
+        <genero>RPG, Acción</genero>
+        <plataforma>PC, PlayStation, Xbox</plataforma>
+        <año>2020</año>
+        <calificacion>7</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>Red Dead Redemption 2</titulo>
+        <desarrollador>Rockstar Games</desarrollador>
+        <genero>Aventura, Acción</genero>
+        <plataforma>PlayStation 4, Xbox One, PC</plataforma>
+        <año>2018</año>
+        <calificacion>9</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>Halo Infinite</titulo>
+        <desarrollador>343 Industries</desarrollador>
+        <genero>Disparo, Aventura</genero>
+        <plataforma>Xbox Series X, PC</plataforma>
+        <año>2021</año>
+        <calificacion>8</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>Animal Crossing: New Horizons</titulo>
+        <desarrollador>Nintendo</desarrollador>
+        <genero>Simulación, Aventura</genero>
+        <plataforma>Switch</plataforma>
+        <año>2020</año>
+        <calificacion>9</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>Overwatch</titulo>
+        <desarrollador>Blizzard Entertainment</desarrollador>
+        <genero>FPS, Multijugador</genero>
+        <plataforma>PC, PlayStation, Xbox</plataforma>
+        <año>2016</año>
+        <calificacion>8</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>Fortnite</titulo>
+        <desarrollador>Epic Games</desarrollador>
+        <genero>Battle Royale</genero>
+        <plataforma>PC, PlayStation, Xbox</plataforma>
+        <año>2017</año>
+        <calificacion>7</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>Super Mario Odyssey</titulo>
+        <desarrollador>Nintendo</desarrollador>
+        <genero>Plataformas, Aventura</genero>
+        <plataforma>Switch</plataforma>
+        <año>2017</año>
+        <calificacion>9</calificacion>
+    </videojuego>
+
+    <videojuego>
+        <titulo>The Witcher 3: Wild Hunt</titulo>
+        <desarrollador>CD Projekt Red</desarrollador>
+        <genero>RPG, Aventura</genero>
+        <plataforma>PC, PlayStation, Xbox</plataforma>
+        <año>2015</año>
+        <calificacion>10</calificacion>
+    </videojuego>
+
+</coleccion>
