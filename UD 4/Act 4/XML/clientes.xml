@@ -1,0 +1,76 @@
+
+<!DOCTYPE Clientes SYSTEM "C:\Users\1DAW2425-07\Desktop\Instituto\Lenguaje de marca\UD 4\Act 4\DTD\clientes.dtd">
+
+<Clientes>
+
+  <Cliente>
+    <CodigoSede tipo="Principal">A1234567</CodigoSede>
+    <EmpleadoAlta>Juan Pérez</EmpleadoAlta>
+    <FechaAlta>2024-12-01</FechaAlta>
+    <DatosCliente>
+      <CodigoCliente tipo="Format">ABC-123</CodigoCliente>
+      <Descripcion>solvente</Descripcion>
+      <NumeroViviendas>3</NumeroViviendas>
+      <CosteVivienda>150000.50</CosteVivienda>
+      <ResumenViviendas>3 apartamentos en Cádiz</ResumenViviendas>
+      <PlazoAlta>2025-01-01</PlazoAlta>
+    </DatosCliente>
+  </Cliente>
+
+  <Cliente>
+    <CodigoSede tipo="Sucursal">B7654321</CodigoSede>
+    <EmpleadoAlta>María López</EmpleadoAlta>
+    <FechaAlta>2024-11-15</FechaAlta>
+    <DatosCliente>
+      <CodigoCliente tipo="Format">DEF-456</CodigoCliente>
+      <Descripcion>insolvente</Descripcion>
+      <NumeroViviendas>2</NumeroViviendas>
+      <CosteVivienda>120000.00</CosteVivienda>
+      <ResumenViviendas>2 casas en Sevilla</ResumenViviendas>
+      <PlazoAlta>2024-12-31</PlazoAlta>
+    </DatosCliente>
+  </Cliente>
+
+  <Cliente>
+    <CodigoSede tipo="Principal">C2345678</CodigoSede>
+    <EmpleadoAlta>Carlos García</EmpleadoAlta>
+    <FechaAlta>2024-10-20</FechaAlta>
+    <DatosCliente>
+      <CodigoCliente tipo="Format">GHI-789</CodigoCliente>
+      <Descripcion>solvente</Descripcion>
+      <NumeroViviendas>1</NumeroViviendas>
+      <CosteVivienda>250000.00</CosteVivienda>
+      <ResumenViviendas>1 chalet en Málaga</ResumenViviendas>
+      <PlazoAlta>2025-02-01</PlazoAlta>
+    </DatosCliente>
+  </Cliente>
+
+  <Cliente>
+    <CodigoSede tipo="Sucursal">D8765432</CodigoSede>
+    <EmpleadoAlta>Lucía Fernández</EmpleadoAlta>
+    <FechaAlta>2024-09-10</FechaAlta>
+    <DatosCliente>
+      <CodigoCliente tipo="Format">JKL-321</CodigoCliente>
+      <Descripcion>insolvente</Descripcion>
+      <NumeroViviendas>4</NumeroViviendas>
+      <CosteVivienda>100000.00</CosteVivienda>
+      <ResumenViviendas>4 pisos en Granada</ResumenViviendas>
+      <PlazoAlta>2024-11-30</PlazoAlta>
+    </DatosCliente>
+  </Cliente>
+
+  <Cliente>
+    <CodigoSede tipo="Principal">E3456789</CodigoSede>
+    <EmpleadoAlta>Rafael Moreno</EmpleadoAlta>
+    <FechaAlta>2024-08-05</FechaAlta>
+    <DatosCliente>
+      <CodigoCliente tipo="Format">MNO-654</CodigoCliente>
+      <Descripcion>solvente</Descripcion>
+      <NumeroViviendas>5</NumeroViviendas>
+      <CosteVivienda>180000.00</CosteVivienda>
+      <ResumenViviendas>5 villas en Huelva</ResumenViviendas>
+      <PlazoAlta>2025-01-15</PlazoAlta>
+    </DatosCliente>
+  </Cliente>
+  
+</Clientes>
