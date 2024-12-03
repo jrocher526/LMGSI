@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumnos SYSTEM "C:\Users\1DAW2425-07\Desktop\Instituto\Lenguaje de marca\UD 4\Act 5\DTD\Alumno.dtd">
+
+<alumnos>
+    <alumno>
+        <nif>12345678A</nif>
+        <resultado>apto</resultado>
+        <observaciones>Excelente rendimiento en el curso</observaciones>
+        <ip>192.168.1.10</ip>
+    </alumno>
+
+    <alumno>
+        <nif>23456789B</nif>
+        <resultado>no apto</resultado>
+        <observaciones/>
+        <mac>00:14:22:01:23:45</mac>
+    </alumno>
+
+    <alumno>
+        <nif>34567890C</nif>
+        <resultado>apto</resultado>
+        <observaciones>No presentó observaciones</observaciones>
+        <ip>192.168.1.11</ip>
+    </alumno>
+
+    <alumno>
+        <nif>45678901D</nif>
+        <resultado>no apto</resultado>
+        <observaciones>No completó el proyecto final</observaciones>
+        <mac>00:15:22:11:45:67</mac>
+    </alumno>
+
+    <alumno>
+        <nif>56789012E</nif>
+        <resultado>apto</resultado>
+        <observaciones>Excelente participación en clase</observaciones>
+        <ip>192.168.1.12</ip>
+    </alumno>
+
+    <alumno>
+        <nif>67890123F</nif>
+        <resultado>apto</resultado>
+        <observaciones>Completó todas las tareas con éxito</observaciones>
+        <ip>192.168.1.13</ip>
+    </alumno>
+
+    <alumno>
+        <nif>78901234G</nif>
+        <resultado>no apto</resultado>
+        <observaciones>Faltó a varias clases</observaciones>
+        <mac>00:16:33:44:55:66</mac>
+    </alumno>
+
+    <alumno>
+        <nif>89012345H</nif>
+        <resultado>apto</resultado>
+        <observaciones>Buen desempeño en el examen final</observaciones>
+        <ip>192.168.1.14</ip>
+    </alumno>
+</alumnos>
