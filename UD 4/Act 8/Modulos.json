@@ -1,0 +1,143 @@
+{
+    "Modulos": {
+      "Modulo": [
+        {
+          "nombre": "Desarrollo de Aplicaciones Web",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Introduccion a las tecnologias web.",
+                "Nombre": "UD1 - Tecnologias Web"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Desarrollo de paginas web con HTML, CSS y JavaScript.",
+                "Nombre": "UD2 - Desarrollo Frontend"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Programacion",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Conceptos basicos de programacion en Java.",
+                "Nombre": "UD1 - Introduccion a la Programacion"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Programacion de aplicaciones en Java.",
+                "Nombre": "UD2 - Programacion en Java"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Bases de Datos",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Conceptos fundamentales sobre bases de datos relacionales.",
+                "Nombre": "UD1 - Introduccion a las Bases de Datos"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Modelado de bases de datos con SQL.",
+                "Nombre": "UD2 - Diseño de Bases de Datos"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Sistemas Informaticos",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Arquitectura de ordenadores y sistemas operativos.",
+                "Nombre": "UD1 - Fundamentos de Sistemas Informaticos"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Instalacion y configuracion de sistemas operativos.",
+                "Nombre": "UD2 - Administracion de Sistemas Operativos"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Entornos de Desarrollo",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Herramientas y entornos de desarrollo de software.",
+                "Nombre": "UD1 - Herramientas de Desarrollo"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Desarrollo de aplicaciones utilizando entornos de desarrollo integrados (IDE).",
+                "Nombre": "UD2 - Programacion con Entornos de Desarrollo"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Desarrollo de Interfaces",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Principios y fundamentos del diseño de interfaces de usuario.",
+                "Nombre": "UD1 - Diseño de Interfaces"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Creacion de interfaces utilizando tecnologias web y herramientas graficas.",
+                "Nombre": "UD2 - Desarrollo de Interfaces de Usuario"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Acceso a Datos",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Conceptos sobre acceso y manipulacion de datos en aplicaciones.",
+                "Nombre": "UD1 - Introduccion al Acceso a Datos"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Acceso y manipulacion de datos en bases de datos mediante JDBC y otras tecnologias.",
+                "Nombre": "UD2 - Acceso a Datos con JDBC"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Proyecto de Desarrollo de Aplicaciones",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Metodologias agiles y planificacion de proyectos de software.",
+                "Nombre": "UD1 - Metodologias de Desarrollo"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Desarrollo de un proyecto de software completo de acuerdo con los requisitos del cliente.",
+                "Nombre": "UD2 - Proyecto Final de Desarrollo"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+  

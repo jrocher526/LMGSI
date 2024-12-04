@@ -1,0 +1,101 @@
+{
+  "Clientes": {
+    "Cliente": [
+      {
+        "CodigoSede": {
+          "tipo": "Principal",
+          "value": "A1234567"
+        },
+        "EmpleadoAlta": "Juan Pérez",
+        "FechaAlta": "2024-12-01",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "Format",
+            "value": "ABC-123"
+          },
+          "Descripcion": "solvente",
+          "NumeroViviendas": 3,
+          "CosteVivienda": 150000.50,
+          "ResumenViviendas": "3 apartamentos en Cádiz",
+          "PlazoAlta": "2025-01-01"
+        }
+      },
+      {
+        "CodigoSede": {
+          "tipo": "Sucursal",
+          "value": "B7654321"
+        },
+        "EmpleadoAlta": "María López",
+        "FechaAlta": "2024-11-15",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "Format",
+            "value": "DEF-456"
+          },
+          "Descripcion": "insolvente",
+          "NumeroViviendas": 2,
+          "CosteVivienda": 120000.00,
+          "ResumenViviendas": "2 casas en Sevilla",
+          "PlazoAlta": "2024-12-31"
+        }
+      },
+      {
+        "CodigoSede": {
+          "tipo": "Principal",
+          "value": "C2345678"
+        },
+        "EmpleadoAlta": "Carlos García",
+        "FechaAlta": "2024-10-20",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "Format",
+            "value": "GHI-789"
+          },
+          "Descripcion": "solvente",
+          "NumeroViviendas": 1,
+          "CosteVivienda": 250000.00,
+          "ResumenViviendas": "1 chalet en Málaga",
+          "PlazoAlta": "2025-02-01"
+        }
+      },
+      {
+        "CodigoSede": {
+          "tipo": "Sucursal",
+          "value": "D8765432"
+        },
+        "EmpleadoAlta": "Lucía Fernández",
+        "FechaAlta": "2024-09-10",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "Format",
+            "value": "JKL-321"
+          },
+          "Descripcion": "insolvente",
+          "NumeroViviendas": 4,
+          "CosteVivienda": 100000.00,
+          "ResumenViviendas": "4 pisos en Granada",
+          "PlazoAlta": "2024-11-30"
+        }
+      },
+      {
+        "CodigoSede": {
+          "tipo": "Principal",
+          "value": "E3456789"
+        },
+        "EmpleadoAlta": "Rafael Moreno",
+        "FechaAlta": "2024-08-05",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "Format",
+            "value": "MNO-654"
+          },
+          "Descripcion": "solvente",
+          "NumeroViviendas": 5,
+          "CosteVivienda": 180000.00,
+          "ResumenViviendas": "5 villas en Huelva",
+          "PlazoAlta": "2025-01-15"
+        }
+      }
+    ]
+  }
+}

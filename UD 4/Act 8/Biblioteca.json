@@ -1,0 +1,85 @@
+{
+    "biblioteca":
+     [
+        {
+            "titulo": "El Señor de los Anillos",
+            "autor": "J.R.R. Tolkien",
+            "editorial": "Minotauro",
+            "año": "1954",
+            "genero": "Fantasía",
+            "isbn": "978-8435065442"
+        },
+        {
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "editorial": "Debolsillo",
+            "año": "1949",
+            "genero": "Ciencia ficción",
+            "isbn": "978-8497597671"
+        },
+        {
+            "titulo": "Harry Potter y la piedra filosofal",
+            "autor": "J.K. Rowling",
+            "editorial": "Salamandra",
+            "año": "1997",
+            "genero": "Fantasía",
+            "isbn": "978-8478884284"
+        },
+        {
+            "titulo": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "editorial": "Editorial Sudamericana",
+            "año": "1967",
+            "genero": "Realismo mágico",
+            "isbn": "978-8437608868"
+        },
+        {
+            "titulo": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "editorial": "Espasa",
+            "año": "1605",
+            "genero": "Novela",
+            "isbn": "978-8467003282"
+        },
+        {
+            "titulo": "El Principito",
+            "autor": "Antoine de Saint-Exupéry",
+            "editorial": "Rey Lear",
+            "año": "1943",
+            "genero": "Fábula",
+            "isbn": "978-9870000703"
+        },
+        {
+            "titulo": "Fahrenheit 451",
+            "autor": "Ray Bradbury",
+            "editorial": "Minotauro",
+            "año": "1953",
+            "genero": "Ciencia ficción",
+            "isbn": "978-8435065565"
+        },
+        {
+            "titulo": "La sombra del viento",
+            "autor": "Carlos Ruiz Zafón",
+            "editorial": "Planeta",
+            "año": "2001",
+            "genero": "Novela histórica",
+            "isbn": "978-8408058583"
+        },
+        {
+            "titulo": "Los detectives salvajes",
+            "autor": "Roberto Bolaño",
+            "editorial": "Anagrama",
+            "año": "1998",
+            "genero": "Novela",
+            "isbn": "978-8433960236"
+        },
+        {
+            "titulo": "El código Da Vinci",
+            "autor": "Dan Brown",
+            "editorial": "Planeta",
+            "año": "2003",
+            "genero": "Thriller",
+            "isbn": "978-8408094871"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "concesionario": 
+    [
+        {
+            "codigo": "001",
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "matricula": "ABC1234",
+            "potencia": "110",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "003",
+            "marca": "Chevrolet",
+            "modelo": "Malibu",
+            "matricula": "LMN2345",
+            "potencia": "150",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "004",
+            "marca": "BMW",
+            "modelo": "X5",
+            "matricula": "JKL9876",
+            "potencia": "260",
+            "plazas": "5",
+            "puertas": "5"
+        },
+        {
+            "codigo": "005",
+            "marca": "Volkswagen",
+            "modelo": "Golf",
+            "matricula": "DEF5678",
+            "potencia": "110",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "006",
+            "marca": "Audi",
+            "modelo": "A4",
+            "matricula": "ABC4321",
+            "potencia": "190",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "007",
+            "marca": "Mercedes-Benz",
+            "modelo": "C-Class",
+            "matricula": "GHI8765",
+            "potencia": "200",
+            "plazas": "5",
+            "puertas": "4"
+        }
+    ]
+}
