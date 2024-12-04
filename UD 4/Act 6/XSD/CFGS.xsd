@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- Definicion de un modulo profesional -->
+    <xs:element name="Modulos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Modulo" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Contenidos">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="UnidadDidáctica" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="Nombre" type="xs:string"/>
+                                                </xs:sequence>
+                                                <xs:attribute name="tipo" type="xs:string" use="required"/>
+                                                <xs:attribute name="descripcion" type="xs:string" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="nombre" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

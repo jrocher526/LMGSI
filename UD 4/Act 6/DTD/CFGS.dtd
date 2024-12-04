@@ -1,0 +1,8 @@
+<!ELEMENT Modulos (Modulo+)>
+<!ELEMENT Modulo (Contenidos)>
+<!ATTLIST Modulo nombre CDATA #REQUIRED>
+<!ELEMENT Contenidos (UnidadDidactica+)>
+<!ELEMENT UnidadDidactica (Nombre)>
+<!ATTLIST UnidadDidactica tipo (Teorica | Practica) #REQUIRED
+          descripcion CDATA #REQUIRED>
+<!ELEMENT Nombre (#PCDATA)>
