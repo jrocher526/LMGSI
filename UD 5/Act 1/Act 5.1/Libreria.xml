@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="libreria.xsl"?>
+
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numPaginas>400</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+        <numPaginas>250</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicios complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>180</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Introducción a XML</titulo>
+        <autor>María López</autor>
+        <editor>Alfaomega</editor>
+        <isbn>978-84-1234-567-8</isbn>
+        <precio>9.99</precio>
+        <numPaginas>120</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Fundamentos de HTML y CSS</titulo>
+        <autor>Juan Pérez</autor>
+        <editor>Marcombo</editor>
+        <isbn>978-84-8765-432-1</isbn>
+        <precio>8.50</precio>
+        <numPaginas>200</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Programación en Java</titulo>
+        <autor>José Ramírez</autor>
+        <editor>Anaya</editor>
+        <isbn>978-84-1234-987-6</isbn>
+        <precio>14.95</precio>
+        <numPaginas>350</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Redes de Computadoras</titulo>
+        <autor>Andrew S. Tanenbaum</autor>
+        <editor>Pearson</editor>
+        <isbn>978-84-5555-666-3</isbn>
+        <precio>45.00</precio>
+        <numPaginas>600</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Desarrollo Web con JavaScript</titulo>
+        <autor>Ana Fernández</autor>
+        <editor>O'Reilly</editor>
+        <isbn>978-84-3333-777-2</isbn>
+        <precio>19.90</precio>
+        <numPaginas>320</numPaginas>
+    </libro>
+</libreria>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<libreria>
+    <libro>
+    <titulo>Physiscs-based animation</titulo>
+    <autor>Kenny  Erleben</autor>
+    <editor>Charles River Media</editor>
+    <isb>978-1584503804</isb>
+    <precio>50.06</precio>
+    </libro>
+
+    <libro>
+    <titulo>Principios de seguridad informatica para usuarios</titulo>
+    <autor>Calos Garre</autor>
+    <editor>Dykinson</editor>
+    <isb>978-84-9849-998-8</isb>
+    <precio>13.00</precio>
+    </libro>
+
+    <libro>
+    <titulo>Ejercicios complementraios de logica digital</titulo>
+    <autor>Alberto Sanchez</autor>
+    <editor>Dykison</editor>
+    <isb>978-84-9849-703-8</isb>
+    <precio>12.00</precio>
+    </libro>
+</libreria>
