@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<baile id="5">
+    <nombre>Salsa</nombre>
+    <precio cuota="mensual" moneda="euro">32</precio>
+    <plazas>10</plazas>
+    <comienzo>1/1/2011</comienzo>
+    <fin>1/12/2011</fin>
+    <profesor>Jesús Lozano</profesor>
+    <sala>2</sala>
+</baile>
