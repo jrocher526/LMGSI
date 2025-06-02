@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${titulo}">Página Principal</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+    <header>
+        <h1>Navegación con Spring Boot</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a th:href="@{/}">Inicio</a></li>
+            <li><a th:href="@{/pagina1}">Página 1</a></li>
+            <li><a th:href="@{/pagina2}">Página 2</a></li>
+            <li><a th:href="@{/pagina3}">Página 3</a></li>
+        </ul>
+    </nav>
+    
+    <div class="container">
+        <main>
+            <h2>Bienvenido a la Aplicación de Ejemplo</h2>
+            <p>Esta es una aplicación de ejemplo que demuestra la navegación entre páginas HTML con Spring Boot y Thymeleaf.</p>
+            <p>Utiliza los enlaces en la navegación para moverte entre las diferentes páginas.</p>
+        </main>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Aplicación de Ejemplo</p>
+    </footer>
+</body>
+</html>

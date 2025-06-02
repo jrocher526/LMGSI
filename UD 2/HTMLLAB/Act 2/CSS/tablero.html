@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dooer - Tablero</title>
+  <link rel="stylesheet" href="/css/tablero.css" />
+</head>
+<body>
+
+  <!-- Encabezado principal con el logo y los iconos de la parte superior -->
+  <header class="header">
+    <!-- Lado Izquierdo: Logo -->
+    <div class="header-left">
+      <div class="logo-circulo">
+        <span class="logo-circulo-text">dooer</span>
+      </div>
+      <h1 class="logo-text">Dooer</h1>
+    </div>
+
+  <!-- Iconos (Luna, Recargar, Mensajes, Puerta de salir) -->
+      <!-- Correo / Mensajes -->
+      <button class="header-btn" title="Mensajes">
+        <img src="/SVG/mensajeria.svg" alt="mensajeria">
+      </button>
+      <!-- Recargar -->
+      <button class="header-btn" title="Recargar">
+        <img src="/SVG/recargar.svg" alt="Recargar">
+      </button>
+           <!-- Modo oscuro (Luna) -->
+      <button class="header-btn" title="Modo oscuro">
+        <img src="/SVG/Luna.svg" alt="Luna">      
+      </button>
+      <!-- Puerta / Salir -->
+      <button class="header-btn" title="Salir">
+        <img src="/SVG/cerrarSesion.svg" alt="Salir">
+      </button>
+    </div>
+  </header>
+
+  <!-- Contenedor principal (Barra lateral + area de contenido) -->
+  <div class="main-container">
+    <!-- Barra lateral izquierda -->
+    <aside class="sidebar">
+      <div class="user-info">
+        <div class="user-top">
+          <div>
+            <p class="user-name">Nombre</p>
+            <p class="user-description">Descripción</p>
+          </div>
+          <button class="gear-btn" title="Configuración">
+            <img src="/SVG/ajustes.svg" alt="ajustes">
+          </button>
+        </div>
+        <hr/>
+      </div>
+
+      <!-- Menú lateral -->
+      <nav class="sidebar-menu">
+        <ul>
+          <li><img src="/SVG/puntero.svg" alt="Mi Dia"> <a href="#">Mi día</a></li>
+          <li><img src="/SVG/dia de calendario.svg" alt="Dia Calendario"><a href="#">Próximos 7 días</a></li>
+          <li><img src="/SVG/calendario.svg" alt="Calendario"><a href="#">Mi calendario</a></li>
+        </ul>
+        <button class="btn-crear-vista">+ Crea una vista</button>
+      </nav>
+
+      <!-- Sección Mis Listas -->
+      <div class="listas">
+        <h3>Mis Listas <span class="lock-icon"> <img src="/SVG/candado.svg" alt="candado"> </span></h3>
+        <ul>
+          <li>Lista de compras</li>
+          <li>Datos personales</li>
+          <li>Proyectos de trabajo</li>
+        </ul>
+      </div>
+
+      <!-- Sección Tareas -->
+      <div class="tareas">
+        <h3>Tareas <span class="people-icon"><img src="/SVG/tareas.svg" alt="Tareas"></span></h3>
+        <ul>
+          <li><a href="#" class="active">Trabajo</a></li>
+        </ul>
+      </div>
+
+      <button class="btn-agregar-tablero">+ Agregar nuevo tablero</button>
+    </aside>
+
+    <!-- Área principal del tablero -->
+    <main class="board">
+      <!-- Barra intermedia con título y botones (Trabajo, Compartir, Filtro, Ver, ...) -->
+      <div class="board-header">
+        <h2>Trabajo</h2>
+        <div class="board-actions">
+          <button title="Compartir"> <img src="/SVG/compartir.svg" alt="compartir"> Compartir</button> 
+          <button title="Filtro"> <img src="/SVG/Lupa.svg" alt="Filtro" > Filtro</button>
+          <button title="Ver">&#128065; Ver</button>
+          <button title="Más opciones">...</button>
+        </div>
+      </div>
+
+      <!-- Contenedor de columnas -->
+      <div class="columns-container">
+        <!-- Columna Pendiente -->
+        <div class="column">
+          <h3>Pendiente</h3>
+          <div class="task">Revisar el informe</div>
+          <div class="task">Actualizar portafolio</div>
+          <div class="task">Rediseñar la página web</div>
+          <button class="btn-agregar-tarea">+ Añadir tarea</button>
+        </div>
+
+        <!-- Columna En curso -->
+        <div class="column">
+          <h3>En curso</h3>
+          <div class="task">Campaña de marketing</div>
+          <div class="task">
+            Sesión de fotos para el proyecto
+            <br/>
+            <!-- Ejemplo de fecha y campana de notificación -->
+            <small>4.10.25 8:45AM <img src="/SVG/campana.svg" alt="Campana"></small>
+          </div>
+          <button class="btn-agregar-tarea">+ Añadir tarea</button>
+        </div>
+
+        <!-- Columna Terminado -->
+        <div class="column">
+          <h3>Terminado</h3>
+          <div class="task">Crear logo para el cliente</div>
+          <div class="task">Balance financiero para la empresa STABILO</div>
+          <button class="btn-agregar-tarea">+ Añadir tarea</button>
+        </div>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

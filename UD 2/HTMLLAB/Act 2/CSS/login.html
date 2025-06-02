@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Dooer - Iniciar Sesión</title>
+  <link rel="stylesheet" href="/css/login.css"> 
+</head>
+<body>
+  <div class="login-container">
+    <!-- Logo principal -->
+    <div class="login-logo">
+      <div class="logo-circulo">
+        <span class="logo-circulo-text">dooer</span>
+      </div>
+      <h1 class="logo-text">Dooer</h1>
+    </div>
+
+    <!-- Botones de acceso rápido -->
+    <div class="social-login">
+      <button class="apple-btn"> 
+        <img src="/SVG/apple.svg" alt="Apple-Logo">
+        Continuar con Apple 
+      </button>
+
+      <button class="google-btn">
+        <img src="/SVG/google.svg" alt="Google-Logo">
+        Continuar con Google
+      </button>
+
+      <button class="facebook-btn">
+        <img src="/SVG/facebook.svg" alt="Facebook-Logo">
+        Continuar con Facebook
+      </button>
+    </div>
+
+    <hr class="divider">
+
+    <!-- Mostrar mensaje de error si las credenciales son incorrectas -->
+    <p th:if="${error}" th:text="${error}" style="color: red; text-align: center;"></p>
+
+    <!-- Formulario de acceso -->
+    <form class="login-form" th:action="@{/demo/login}" method="post">
+      <label for="username">Dirección email o nombre de usuario</label>
+      <input type="text" id="username" name="username" placeholder="Dirección email o nombre de usuario" required>
+
+      <label for="password">Contraseña</label>
+      <input type="password" id="password" name="password" placeholder="Contraseña" required>
+
+      <div class="extras">
+        <a href="#">¿Olvidaste tu contraseña?</a>
+        <div class="recordarme">
+          <input type="checkbox" id="rememberMe">
+          <label for="rememberMe">Recordarme</label>
+        </div>
+      </div>
+
+      <button type="submit" class="login-btn">Iniciar Sesión</button>
+    </form>
+
+    <div class="register">
+      <p>¿No tienes cuenta? <a href="#">Regístrate</a></p>
+    </div>
+  </div>
+</body>
+</html>
